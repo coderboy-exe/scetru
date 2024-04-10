@@ -1,0 +1,19 @@
+1) User Authentication API: To handle user registration, login, logout functionality.
+
+2) Product Information API: Retrieves product details such as product name, price, category, description etc.
+
+3) Order Processing API: Allows users to place orders, view order history, and track their orders.
+
+4) Payment Gateway API: Integrates with a payment gateway to handle payments securely.
+
+5) User Account Management API: To enable users to update their profile information, and view their order history.
+
+6) Search API: To allow for searching of products based on different criteria like keywords, categories, and other filters.
+
+7) Recommendation API: Integrates with a Machine Learning model to provide personalized product recommendations based on user behavior.
+
+8) Notifications API: For sending notifications to users regarding their order status, promotions, and other relevant updates.
+
+9) Cart Management API: Handles adding/removing items from the shopping cart in order to allow persistent storge in the database (in case the user browser session ends) and calculates the total price.
+
+10) Reviews and Ratings API: Allows users to submit reviews and ratings for products they have purchased.
