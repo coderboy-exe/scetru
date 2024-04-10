@@ -41,8 +41,10 @@ python app.py
 
 ## Unit Tests
 
-Run the **"Integration Tests"** folder in the [Postman collection](https://documenter.getpostman.com/view/27182139/2s9YyvCLSQ)
-
+```bash
+# Run the unit tests
+python tests.py
+```
 All tests should pass
 
 
